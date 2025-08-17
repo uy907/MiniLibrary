@@ -1,18 +1,27 @@
-# MiniLibraryMini Library Project
 
-This is a simple Java project simulating a mini library system.  
-It demonstrates basic Java concepts such as classes, methods, and user input.
+---MiniLibrary
+
+This is a simple Java console application that manages a mini library system.  
+Users can add, delete, list books and perform basic operations using Java Collections.
 
 Features
-- Add books to the library
-- List all books
-- Simple console interaction
+
+- Add new books to the library  
+- Delete books by title  
+- List all available books  
+- Simple console input/output interface  
 
 How to Run
-1. Compile the Java files.
-2. Run the Main class.
-3. Follow the console prompts.
 
----
+1. Clone the repository  
+2. Compile the Java files:  
+   javac *.java  
+3. Run the program:  
+   java MiniLibrary  
+
+Technologies Used
+
+- Java  
+- Collections Framework (ArrayList, Map)
 
 Developed by [ULKU YİLDİZ]
